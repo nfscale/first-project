@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Marbles Demo
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibm-blockchain/marbles.git)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/nfscale/first-project.git)
 
 ***
 
